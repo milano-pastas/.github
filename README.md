@@ -36,8 +36,8 @@ Backend powered by Supabase for:
 ## Tech Stack
 
 - Frontend: React / Vite  
-- Backend: Supabase  
-- Database: PostgreSQL  
+- Backend:  Spring Boot
+- Database: PostgreSQL, Supabase
 - Authentication: Supabase Auth  
 
 ---
@@ -47,11 +47,5 @@ Backend powered by Supabase for:
 Currently in active development.
 
 Public deployment pending.
-
----
-
-## Team
-
-Developed by the Milano Pastas team as part of a software engineering / digital solutions project.
 
 ---
